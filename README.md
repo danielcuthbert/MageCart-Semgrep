@@ -1,5 +1,7 @@
 # MageCart-Semgrep
 
+![Magecartcode](magecart.png)
+
 
 Skimmers suck. We need to do more to detect malicious skimming code embedded into websites. 
 This is an attempt to create [Semgrep](https://semgrep.dev/) rules in order to detect MageCart and other skimmer code that might have been inserted into code. 
